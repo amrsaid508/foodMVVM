@@ -1,8 +1,8 @@
-package com.amroid.foodmvvm.data.model
+package com.amroid.foodmvvm.network.model
 
 import com.google.gson.annotations.SerializedName
 
-class RecipeNetworkEntity(
+class RecipeDto(
 
   @SerializedName("pk")
   var pk: Int? = null,
