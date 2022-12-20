@@ -6,11 +6,11 @@
 
   <fragment
     android:id="@+id/recipeFragment"
-    android:name="com.amroid.foodmvvm.RecipeFragment"
+    android:name="com.amroid.foodmvvm.presentation.ui.food.RecipeFragment"
     android:label="RecipeFragment" />
   <fragment
     android:id="@+id/recipeListFragment"
-    android:name="com.amroid.foodmvvm.RecipeListFragment"
+    android:name="com.amroid.foodmvvm.presentation.ui.food_list.RecipeListFragment"
     android:label="RecipeListFragment" >
     <action
       android:id="@+id/viewRecipe"

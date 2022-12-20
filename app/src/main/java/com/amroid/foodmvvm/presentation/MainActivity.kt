@@ -1,7 +1,8 @@
-package com.amroid.foodmvvm
+package com.amroid.foodmvvm.presentation
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
+import com.amroid.foodmvvm.R
 
 class MainActivity : AppCompatActivity(){
 
